@@ -19,3 +19,5 @@ File/Open and hit on green triangle icon. (or via Menu Run/Run)
   
 After that you can use only your executable. (mbfbh or mbfbh.exe)  
   
+Short video introduction: https://www.youtube.com/watch?v=gQKlFSp0nv4  
+
