@@ -21,3 +21,5 @@ After that you can use only your executable. (mbfbh or mbfbh.exe)
   
 Short video introduction: https://www.youtube.com/watch?v=gQKlFSp0nv4  
 
+If you use this program, I would be happy if you donate  
+My dogecoin  public address: DKT63geR4KvPnM98eaiXFfAWxPeRQFCizV
