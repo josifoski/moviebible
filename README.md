@@ -24,4 +24,4 @@ Short video introduction: https://www.youtube.com/watch?v=gQKlFSp0nv4
 If you use this program, I would be happy if you donate  
 My Solana/SOL  public address: 9hUruV6DCm7tFgbk8BM7r1NP7xjcUsaAfvP4YwBCzmzA  
 
-Join MovieBible on discord https://discord.gg/H5Ppg7Uu  
+Join MovieBible on discord https://discord.gg/jCcMRVUJzK  
