@@ -22,6 +22,7 @@ After that you can use only your executable. (mbfbh or mbfbh.exe)
 Short video introduction: https://www.youtube.com/watch?v=gQKlFSp0nv4  
 
 If you use this program, you ❤ it, I would be happy if you donate  
-My Solana/SOL  public address: 9hUruV6DCm7tFgbk8BM7r1NP7xjcUsaAfvP4YwBCzmzA  
+You can donate in one of following addresses:   
+https://gist.github.com/josifoski/d1eea8a0febcac83257c8ccc195df55a  
 
 You can follow updates on Movie Bible on my twitter account twitter.com/josifsk  
