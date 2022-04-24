@@ -23,6 +23,6 @@ Short video introduction: https://www.youtube.com/watch?v=gQKlFSp0nv4
 
 If you use this program, you ❤ it, I would be happy if you donate  
 You can donate in one of following addresses:   
-https://gist.github.com/josifoski/d1eea8a0febcac83257c8ccc195df55a  
+https://bit.ly/3MumHI6  
 
 You can follow updates on Movie Bible on my twitter account twitter.com/josifsk  
