@@ -26,3 +26,4 @@ You can donate in one of following addresses:
 https://bit.ly/3MumHI6  
 
 You can follow updates on Movie Bible on my twitter account twitter.com/josifsk  
+Free join on MovieBible Discord server https://discord.gg/jCcMRVUJzK  
